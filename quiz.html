@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Basque Quiz</title>
+<link rel="stylesheet" href="quiz.css">
+</head>
+<body>
+  <select id="quizFileSelect" onchange="selectJSONQuizFile()">
+    <option value="" selected disabled>Select a Deck</option>
+    <!-- Add options for quiz JSON files -->
+    <option value="basquenoun.json">Basque to English Nouns</option>
+    <option value="englishnoun.json">English to Basque Nouns</option>
+    <option value="basqueadj.json">Basque to English Adjectives</option>
+    <option value="englishadj.json">English to Basque Adjectives</option>
+    <option value="allbasquewords.json">All Basque to English</option>
+    <option value="allenglishwords.json">All English to Basque</option>
+  </select>
+  
+  <div id="questionContainer"></div>
+  <p id="resultContainer"></p>
+  <input type="text" id="userInput" placeholder="Your answer">
+  <button onclick="checkAnswer()" id = "next">Next Question</button>
+  <button onclick="finishEarly()" id = "finish">Finish</button>
+  <div id="quizSummary" style = "display: none;"></div>
+
+  <div class="arrow-container">
+    <a href="index.html" class="arrow-link">
+      <div class="arrow-left"></div>
+    </a>
+    <h3>To Flashcards</h3>
+    <a href="index.html" class="arrow-link">
+      <div class="arrow-right"></div>
+    </a>
+  </div>
+  
+  <script src="quiz.js"></script>
+</body>
+</html>

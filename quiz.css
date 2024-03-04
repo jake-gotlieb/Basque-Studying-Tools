@@ -1,0 +1,100 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input[type="text"] {
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.arrow-container {
+  display: flex;
+  justify-content: space-between;
+  width: 200px; /* Adjust the width as needed */
+  margin: 20px auto; /* Center the arrows */
+}
+
+.arrow-link {
+  display: inline-block;
+}
+
+.arrow-left, .arrow-right {
+  width: 0;
+  height: 0;
+  border-top: 20px solid transparent;
+  border-bottom: 20px solid transparent;
+}
+
+.arrow-left {
+  border-right: 20px solid #007bff; /* Color of the left arrow */
+}
+
+.arrow-right {
+  border-left: 20px solid #007bff; /* Color of the right arrow */
+}
+
+input {
+  padding: 10px;
+  margin: 10px 0;
+  width: 50%;
+  font-size: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+/* CSS for styling the result container */
+p {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+/* CSS for styling the question container */
+#questionContainer {
+  margin-top: 20px;
+  font-size: 30px;
+  font-weight: bold;
+  color: #333;
+}
+
+#quizSummary {
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+  padding: 25px;
+  margin-top: 50px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+#quizSummary p {
+  margin: 10px 0;
+}
+
+input[type="file"], select {
+  margin-bottom: 20px;
+  padding: 10px;
+}

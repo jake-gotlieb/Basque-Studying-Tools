@@ -1,0 +1,532 @@
+[
+ {
+   "answer": "taberna",
+   "question": "bar",
+   "clue": "tavern"
+ },
+ {
+   "answer": "komuna",
+   "question": "bathroom",
+   "clue": "communal"
+ },
+ {
+   "answer": "hondartza",
+   "question": "beach",
+   "clue": "honda art"
+ },
+ {
+   "answer": "logela",
+   "question": "bedroom",
+   "clue": "log fire"
+ },
+ {
+   "answer": "odola",
+   "question": "blood",
+   "clue": "ebola"
+ },
+ {
+   "answer": "mutil",
+   "question": "boy",
+   "clue": "mutilate"
+ },
+ {
+   "answer": "kafetegia",
+   "question": "cafe",
+   "clue": ""
+ },
+ {
+   "answer": "auto",
+   "question": "car",
+   "clue": ""
+ },
+ {
+   "answer": "arotza",
+   "question": "carpenter",
+   "clue": "rosewood"
+ },
+ {
+   "answer": "gaztaina",
+   "question": "chestnut",
+   "clue": "abstain"
+ },
+ {
+   "answer": "zinema",
+   "question": "cinema",
+   "clue": ""
+ },
+ {
+   "answer": "hiria",
+   "question": "city",
+   "clue": ""
+ },
+ {
+   "answer": "hodei",
+   "question": "clouds",
+   "clue": ""
+ },
+ {
+   "answer": "ordenagailu",
+   "question": "computer",
+   "clue": "order"
+ },
+ {
+   "answer": "sendagilea",
+   "question": "doctor",
+   "clue": "send a doctor"
+ },
+ {
+   "answer": "ate",
+   "question": "door",
+   "clue": "eating"
+ },
+ {
+   "answer": "ingeniaria",
+   "question": "engineer",
+   "clue": ""
+ },
+ {
+   "answer": "enpresaburua",
+   "question": "entrepreneur",
+   "clue": ""
+ },
+ {
+   "answer": "baserria",
+   "question": "farm",
+   "clue": "basin"
+ },
+ {
+   "answer": "arrantzalea",
+   "question": "fisherman",
+   "clue": "azalea"
+ },
+ {
+   "answer": "futbolaria",
+   "question": "footballer",
+   "clue": ""
+ },
+ {
+   "answer": "lagun",
+   "question": "friend",
+   "clue": "lagoon"
+ },
+ {
+   "answer": "lorategi",
+   "question": "garden",
+   "clue": "lorax"
+ },
+ {
+   "answer": "neska",
+   "question": "girl",
+   "clue": "nest"
+ },
+ {
+   "answer": "edalontzi",
+   "question": "glass",
+   "clue": "eden"
+ },
+ {
+   "answer": "etxea",
+   "question": "house",
+   "clue": ""
+ },
+ {
+   "answer": "etxekoandrea",
+   "question": "housewife",
+   "clue": ""
+ },
+ {
+   "answer": "giltza",
+   "question": "key",
+   "clue": "glint"
+ },
+ {
+   "answer": "sukaldea",
+   "question": "kitchen",
+   "clue": "cauldron"
+ },
+ {
+   "answer": "egongela",
+   "question": "living room",
+   "clue": "gong (in our living room)"
+ },
+ {
+   "answer": "gizon",
+   "question": "man",
+   "clue": ""
+ },
+ {
+   "answer": "alkatea",
+   "question": "mayor/ess",
+   "clue": "alcalde"
+ },
+ {
+   "answer": "mendi",
+   "question": "mountain",
+   "clue": "mend"
+ },
+ {
+   "answer": "auzoa",
+   "question": "neighborhood",
+   "clue": ""
+ },
+ {
+   "answer": "galtza",
+   "question": "pants",
+   "clue": "galton"
+ },
+ {
+   "answer": "gurasoa",
+   "question": "parent",
+   "clue": "we"
+ },
+ {
+   "answer": "iturgina",
+   "question": "plumber",
+   "clue": "turbine"
+ },
+ {
+   "answer": "politikaria",
+   "question": "politician",
+   "clue": ""
+ },
+ {
+   "answer": "postaria",
+   "question": "postman",
+   "clue": ""
+ },
+ {
+   "answer": "probintzia",
+   "question": "province",
+   "clue": ""
+ },
+ {
+   "answer": "eskualdea",
+   "question": "region",
+   "clue": "school"
+ },
+ {
+   "answer": "eskola",
+   "question": "school",
+   "clue": ""
+ },
+ {
+   "answer": "itsasoa",
+   "question": "sea",
+   "clue": "sea with an o"
+ },
+ {
+   "answer": "alkandora",
+   "question": "shirt",
+   "clue": "alkali"
+ },
+ {
+   "answer": "oinetako/zapata",
+   "question": "shoe",
+   "clue": "ointment"
+ },
+ {
+   "answer": "zerua",
+   "question": "sky",
+   "clue": ""
+ },
+ {
+   "answer": "denda",
+   "question": "store",
+   "clue": "tienda"
+ },
+ {
+   "answer": "kalea",
+   "question": "street",
+   "clue": "calle"
+ },
+ {
+   "answer": "eguzkia",
+   "question": "sun",
+   "clue": "goose"
+ },
+ {
+   "answer": "jertsea",
+   "question": "sweater",
+   "clue": "Jersey"
+ },
+ {
+   "answer": "mahai",
+   "question": "table",
+   "clue": "my high"
+ },
+ {
+   "answer": "irakaslea",
+   "question": "teacher",
+   "clue": "Iraq"
+ },
+ {
+   "answer": "herria",
+   "question": "town",
+   "clue": "herring"
+ },
+ {
+   "answer": "aterki",
+   "question": "umbrella",
+   "clue": "Atari"
+ },
+ {
+   "answer": "herrixka",
+   "question": "village/small town",
+   "clue": ""
+ },
+ {
+   "answer": "bide",
+   "question": "way/path",
+   "clue": ""
+ },
+ {
+   "answer": "gurpil",
+   "question": "wheel",
+   "clue": "gerbil"
+ },
+ {
+   "answer": "emakume",
+   "question": "woman",
+   "clue": "edamame"
+ },
+ {
+   "answer": "lantokia",
+   "question": "workplace",
+   "clue": "lantern"
+ },
+ {
+   "answer": "harrituta",
+   "question": "amazed/astounded",
+   "clue": "hairy toot"
+ },
+ {
+   "answer": "haserre",
+   "question": "angry",
+   "clue": "has erred"
+ },
+ {
+   "answer": "gaiztoa",
+   "question": "bad",
+   "clue": "gaze"
+ },
+ {
+   "answer": "handia",
+   "question": "big",
+   "clue": "handbag"
+ },
+ {
+   "answer": "aspergarria",
+   "question": "boring",
+   "clue": "aspirin"
+ },
+ {
+   "answer": "puskatuta",
+   "question": "broken",
+   "clue": "busk toot"
+ },
+ {
+   "answer": "garbi",
+   "question": "clean",
+   "clue": "garbage (opposite)"
+ },
+ {
+   "answer": "itxita",
+   "question": "closed",
+   "clue": "itchy"
+ },
+ {
+   "answer": "zikin",
+   "question": "dirty",
+   "clue": "Zika virus"
+ },
+ {
+   "answer": "azkarra",
+   "question": "fast",
+   "clue": "aztec"
+ },
+ {
+   "answer": "tentela",
+   "question": "fool",
+   "clue": "tonto"
+ },
+ {
+   "answer": "ona",
+   "question": "good",
+   "clue": ""
+ },
+ {
+   "answer": "pozik",
+   "question": "happy",
+   "clue": "pose"
+ },
+ {
+   "answer": "maiteminduta",
+   "question": "in love",
+   "clue": "mate in mind"
+ },
+ {
+   "answer": "interesgarria",
+   "question": "interesting",
+   "clue": ""
+ },
+ {
+   "answer": "luzea",
+   "question": "long",
+   "clue": "laze"
+ },
+ {
+   "answer": "etzanda",
+   "question": "lying down",
+   "clue": ""
+ },
+ {
+   "answer": "urduri",
+   "question": "nervous",
+   "clue": "Urdu"
+ },
+ {
+   "answer": "berria",
+   "question": "new",
+   "clue": "berry"
+ },
+ {
+   "answer": "polita",
+   "question": "nice/pretty",
+   "clue": "polite"
+ },
+ {
+   "answer": "gizena",
+   "question": "obese",
+   "clue": "gizon with e ending with a"
+ },
+ {
+   "answer": "zaharra",
+   "question": "old",
+   "clue": "sahara"
+ },
+ {
+   "answer": "triste",
+   "question": "sad",
+   "clue": ""
+ },
+ {
+   "answer": "beldurtuta",
+   "question": "scared",
+   "clue": "bolder toot"
+ },
+ {
+   "answer": "motza",
+   "question": "short",
+   "clue": "matzah"
+ },
+ {
+   "answer": "baxua",
+   "question": "short/low",
+   "clue": ""
+ },
+ {
+   "answer": "eserita",
+   "question": "sitting",
+   "clue": "esoteric"
+ },
+ {
+   "answer": "mantsoa",
+   "question": "slow",
+   "clue": "mantis"
+ },
+ {
+   "answer": "txikia",
+   "question": "small",
+   "clue": "chick"
+ },
+ {
+   "answer": "argia ",
+   "question": "smart/ready",
+   "clue": "argue"
+ },
+ {
+   "answer": "zutik",
+   "question": "standing",
+   "clue": "zoot tick"
+ },
+ {
+   "answer": "altua",
+   "question": "tall",
+   "clue": "alto"
+ },
+ {
+   "answer": "argala",
+   "question": "thin",
+   "clue": "arugula"
+ },
+ {
+   "answer": "nekatuta",
+   "question": "tired",
+   "clue": "neck toot"
+ },
+ {
+   "answer": "itsusia",
+   "question": "ugly",
+   "clue": "it's us"
+ },
+ {
+   "answer": "bustita",
+   "question": "wet",
+   "clue": "bust (wet t-shirt)"
+ },
+ {
+   "answer": "gazte",
+   "question": "young",
+   "clue": "gaze"
+ },
+ {
+   "answer": "arrosa",
+   "question": "pink",
+   "clue": "rose"
+ },
+ {
+   "answer": "beltza",
+   "question": "black",
+   "clue": "belt"
+ },
+ {
+   "answer": "berdea",
+   "question": "green",
+   "clue": ""
+ },
+ {
+   "answer": "gorria",
+   "question": "red",
+   "clue": "hat"
+ },
+ {
+   "answer": "horia",
+   "question": "yellow",
+   "clue": ""
+ },
+ {
+   "answer": "laranja",
+   "question": "orange",
+   "clue": "naranja"
+ },
+ {
+   "answer": "marroia",
+   "question": "brown",
+   "clue": "maroon"
+ },
+ {
+   "answer": "morea",
+   "question": "purple",
+   "clue": ""
+ },
+ {
+   "answer": "urdina",
+   "question": "blue",
+   "clue": ""
+ },
+ {
+   "answer": "zuria",
+   "question": "white",
+   "clue": ""
+ }
+]

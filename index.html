@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Basque Flashcards</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <input type="file" id="fileInput" style="display: none;">
+  <select id="fileSelect" onchange="selectJSONFile()">
+    <option value="" selected disabled>Select a Deck</option>
+    <option value="basquenoun.json">Basque to English Nouns</option>
+    <option value="englishnoun.json">English to Basque Nouns</option>
+    <option value="basqueadj.json">Basque to English Adjectives</option>
+    <option value="englishadj.json">English to Basque Adjectives</option>
+    <option value="allbasquewords.json">All Basque to English</option>
+    <option value="allenglishwords.json">All English to Basque</option>
+    <!-- Add more options for locally stored JSON files if needed -->
+  </select>
+  <div id="flashcardContainer"></div>
+  <button id="clueBtn" onclick="toggleClue()">Toggle Clue</button>
+  <button id="prevBtn" onclick="prevCard()">Previous</button>
+  <button id="nextBtn" onclick="nextCard()">Next</button>
+
+  <div class="arrow-container">
+    <a href="quiz.html" class="arrow-link">
+      <div class="arrow-left"></div>
+    </a>
+    <h3>To Quiz</h3>
+    <a href="quiz.html" class="arrow-link">
+      <div class="arrow-right"></div>
+    </a>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
